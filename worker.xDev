@@ -1,0 +1,46 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 17/08/2021 15:03:38                #
+#                                              #
+### Standard xDev Config - Layout v1.5 #########
+-->
+<project>
+   <option compiler="256913">
+   <option outputname="WORKER">
+   <option targettype="EXE">
+   <option outputpath="">
+   <option root="($)">
+   <option runpath="">
+   <option runparams="">
+   <option pathch="">
+   <option pathlib="">
+   <option pathobj="">
+   <option pathtooutput="C:\Exatus">
+   <option defines="">
+   <option webframework="">
+   <option webrootdir="">
+   <option documentroot="">
+   <option custombrowser="">
+   <option makeincfile="Não">
+   <option taskprepare="">
+   <option taskfinalize="">
+   <option taskgroupprepare="">
+   <option taskgroupfinalize="">
+
+   <compilerparam name="FiveWin32.xCompiler">
+      <option presetsname="40053,40229,649112,450946,256913">
+      <option rdd2="Sim">
+      <option rdd1="Sim">
+   </compilerparam>
+
+   <unit filename="WORKER.PRG" main="true" compile="Sim">
+   <unit filename="WORKER1.PRG" compile="Sim">
+   <unit filename="worker.res" compile="Sim">
+   <unit filename="C:\C32\BCC55\Lib\PSDK\msimg32.lib" compile="Sim">
+   <unit filename="C:\C32\xHarbour121\lib\pcrepos.lib" compile="Sim">
+   <unit filename="C:\C32\FWH912\lib\TSBUTTON32.LIB" compile="Sim">
+   <unit filename="C:\C32\FWH912\lib\FILEXLS.LIB" compile="Sim">
+   <unit filename="WORKER1.RES" compile="Sim">
+   <unit filename="C:\SIC\doctosnet\freeimage.dll" compile="Sim">
+</project>
